@@ -2,3 +2,5 @@
 
 # Muzzify
 Music Streaming App
+
+Explore & enjoy listening to music
