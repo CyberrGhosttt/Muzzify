@@ -1,0 +1,23 @@
+{
+  "name": "muzzify",
+  "version": "1.0.0",
+  "description": "Streaming Music App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --platform=win32 --arch=x64",
+    "icon": "icon.ico",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.1",
+    "electron-packager": "^17.1.2"
+  },
+  "build": {
+    "appId": "com.muzzify.electron",
+    "productName": "Muzzify",
+    "icon": "C:/Users/caaco/Documents/Electron Projects/assets/music.ico"
+  }
+}
