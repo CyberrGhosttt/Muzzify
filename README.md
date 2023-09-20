@@ -1,0 +1,2 @@
+# Muzzify
+Music Streaming App
