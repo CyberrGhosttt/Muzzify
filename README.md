@@ -1,4 +1,4 @@
-![music](C:\Users\caaco\Documents\Github\Muzzify\assets\music.png)
+![music](https://cyberrghosttt.github.io/Muzzify/assets/music.png)
 
 # Muzzify
 Music Streaming App
