@@ -5,4 +5,4 @@ Music Streaming App
 
 Explore & enjoy listening to music
 
-![Dark Mode](https://CyberrGhosttt.github.io/Muzzify/assets/Dark mode.png)
+![Dark Mode](https://CyberrGhosttt.github.io/Muzzify/Dark mode.png)
